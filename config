@@ -1,0 +1,14 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[user]
+	name = Hcc-joy
+	email = 1298228625@qq.com
+	signingkey = ""
+[remote "ADorigin"]
+	url = git@github.com:Hcc-joy/teaa.git
+	fetch = +refs/heads/*:refs/remotes/ADorigin/*
+	pushurl = git@github.com:Hcc-joy/teaa.git
